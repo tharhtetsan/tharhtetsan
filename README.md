@@ -13,9 +13,7 @@ I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.c
     
 
 I'm always open to interesting conversations and collaboration :
-
 email : tharhtet1234@gmail.com
-
 - [Facebook](https://www.facebook.com/tharhtet.san.902)
 - [Linkin](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
 

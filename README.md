@@ -15,5 +15,5 @@ I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.c
 
 **[Real-time Egg size classification and counting AI](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting) that developed in 2021:**
 
-<img src="https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting/blob/12272f6fec845f12242112b3da0f18f43220992d/images/egg-counting.gif" style="zoom: 50%;" />
+<img src="https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting/blob/12272f6fec845f12242112b3da0f18f43220992d/images/egg-counting.gif" style="zoom: 25%;" />
 

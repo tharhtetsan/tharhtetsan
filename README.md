@@ -10,14 +10,10 @@ I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.c
   - 🌱 I’m currently learning AI/RL .
   - 👯 I’m looking to collaborate on Streaming AI Application.
   - 🤔 I’m looking for help with Streaming AI Application.
+    
 
+I'm always open to interesting conversations and collaboration :
 
-
-
-
-| No.  | Demo                                                         | Project Name                                                 | Developers    | Date |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ---- |
-| 1.   | ![](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting/blob/12272f6fec845f12242112b3da0f18f43220992d/images/egg-counting.gif) | [Real-time Egg size classification and counting AI](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting) | Thar Htet San | 2021 |
-|      |                                                              |                                                              |               |      |
-|      |                                                              |                                                              |               |      |
+email : tharhtet1234@gmail.com
+[facebook](https://www.facebook.com/tharhtet.san.902),[Linkin](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
 

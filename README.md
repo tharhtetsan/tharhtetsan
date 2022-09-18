@@ -15,9 +15,9 @@ I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.c
 
 
 
-| No.  | Demo                                                         | Project Name                                                 | Developed year | Developers    |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ------------- |
-| 1.   | ![](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting/blob/12272f6fec845f12242112b3da0f18f43220992d/images/egg-counting.gif) | [Real-time Egg size classification and counting AI](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting) | 2021           | Thar Htet San |
-|      |                                                              |                                                              |                |               |
-|      |                                                              |                                                              |                |               |
+| No.  | Demo                                                         | Project Name                                                 | Developers    | Date |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ---- |
+| 1.   | ![](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting/blob/12272f6fec845f12242112b3da0f18f43220992d/images/egg-counting.gif) | [Real-time Egg size classification and counting AI](https://github.com/tharhtetsan/Real-time-egg-size-classification-and-counting) | Thar Htet San | 2021 |
+|      |                                                              |                                                              |               |      |
+|      |                                                              |                                                              |               |      |
 

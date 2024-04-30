@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.cloudsource.co.jp/)I am currently leading a research Team and I have 4+ experience in AI/ML solution. I love in creating image processing and MLOps solutions. When my free time, I teach AI/ML in AI-Nation.
+I'm **Thar Htet San** , an Artificial Intelligence Engineer with 5+ years of experience in Software Engineering, MLOps, and Technical Instruction, I bring a wealth of expertise to the table. Beyond my professional endeavors, I'm passionate about sharing knowledge and empowering others through teaching AI/ML at AI-Nation.
 
   - 🌱 I’m currently learning AI/RL .
   - 👯 I’m looking to collaborate on Streaming AI Application.
@@ -13,6 +13,6 @@ I'm **Thar Htet San** , a AI Team Leader from [CloudSource, Inc. ](https://www.c
     
 
 I'm always open to interesting conversations and collaboration :
-- email : tharhtet1234@gmail.com
+- email : tharhtetsan.ai@gmail.com , tharhtet1234@gmail.com
 - [Linkin](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
 

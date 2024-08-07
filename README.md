@@ -38,8 +38,13 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
     
 
 I'm always open to interesting conversations and collaboration :
-- email : tharhtetsan.ai@gmail.com , tharhtet1234@gmail.com
-- [Linkin](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
+
+[<img src="./images/facebook.svg" alt="facebook logo" width="35" height="35" />](https://www.facebook.com/tharhtetths) [<img src="./images/line.svg" alt="line logo" width="35" height="35" />](https://line.me/ti/p/y7UQmM1OjO) [<img src="./images/linkedin.png" alt="linkedin logo" width="35" height="35" />](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
+
+- Email : tharhtetsan.ai@gmail.com
+        - tharhtet1234@gmail.com
+
+
 
 
 

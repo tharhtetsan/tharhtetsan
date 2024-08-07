@@ -12,12 +12,12 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 
 
 #### ML FrameWorks
-<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" /> <img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.svg" alt="pytorch logo" width="40" height="40" />
+<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" /> <img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.png" alt="pytorch logo" width="40" height="40" />
 
 
 
 #### MLOps Stack
-<img src="./images/mlflow.svg" alt="tensorflow logo" width="40" height="40" /> <img src="./images/airflow.svg" alt="tensorflow logo" width="40" height="40" /> <img src="./images/prefect.svg" alt="tensorflow logo" width="40" height="40" /><img src="./images/terraform.svg" alt="tensorflow logo" width="40" height="40" />  
+<img src="./images/mlflow.svg" alt="tensorflow logo" width="70" height="70" /> <img src="./images/airflow.svg" alt="tensorflow logo" width="70" height="70" /> <img src="./images/prefect.svg" alt="tensorflow logo" width="70" height="70" /><img src="./images/terraform.svg" alt="tensorflow logo" width="70" height="70" />  
 <img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
 
 

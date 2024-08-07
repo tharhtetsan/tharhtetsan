@@ -11,6 +11,7 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 <img src="./images//python-original.svg" alt="python logo" width="40" height="40" /><img src="./images/java-original.svg" alt="python logo" width="40" height="40" /><img src="./images/cplusplus-original.svg" alt="python logo" width="40" height="40" />
 
 
+
 #### ML FrameWorks
 <img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" fill="white" /><img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.png" alt="ONNX logo" width="40" height="40" />
 
@@ -41,4 +42,16 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 I'm always open to interesting conversations and collaboration :
 - email : tharhtetsan.ai@gmail.com , tharhtet1234@gmail.com
 - [Linkin](https://www.linkedin.com/in/thar-htet-san-411a77164/) 
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharhtetsan&layout=compact&theme=tokyonight)
+
+
+![tharhtetsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharhtetsan&show_icons=true&theme=tokyonight)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tharhtetsan&theme=buefy-dark&border_radius=10)](https://git.io/streak-stats)
+
+
 

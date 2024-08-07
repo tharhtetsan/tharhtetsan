@@ -13,13 +13,11 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 
 
 #### ML FrameWorks
-<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" fill="white" /><img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.png" alt="ONNX logo" width="40" height="40" />
+[<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" fill="white" />](https://www.tensorflow.org/)[<img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" />](https://pytorch.org/)[<img src="./images/onnx.png" alt="ONNX logo" width="40" height="40" />](https://onnx.ai/)
 
 
 
 #### MLOps Stack
-
-
 [<img src="./images/mlflow.png" alt="mlflow logo" width="85" height="35" fill="white" />](https://mlflow.org/)
 [<img src="./images/airflow.png" alt="tensorflow logo" width="85" height="35" />](https://airflow.apache.org/)
 [<img src="./images/prefect.png" alt="tensorflow logo" width="85" height="35" />](https://www.prefect.io/)

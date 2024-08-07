@@ -1,11 +1,16 @@
-<!--
-**tharhtetsan/tharhtetsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
- -->
 
-## Hi there 👋
+## Hello there 👋, I am Thar Htet San
 
-I'm **Thar Htet San** , an Artificial Intelligence Engineer with 5+ years of experience in Software Engineering, MLOps, and Technical Instruction, I bring a wealth of expertise to the table. Beyond my professional endeavors, I'm passionate about sharing knowledge and empowering others through teaching AI/ML at AI-Nation.
+I am an Artificial Intelligence Engineer with 5+ years of experience. I love creating end-to-end ML solution including Creating Own Algorithm, ML life cycle development, MLOps stacks and  Data Pipelines
+. Beyond my professional endeavors, I'm passionate about teaching and sharing knowledge AI/ML System at [DeepFaro](https://www.youtube.com/@deepfaro). 
+
+
+### Here is my  💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50" />
+
+
+
 
   - 🌱 I’m currently learning AI/RL .
   - 👯 I’m looking to collaborate on Streaming AI Application.

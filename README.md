@@ -22,13 +22,13 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 <img src="./images/airflow.svg" alt="tensorflow logo" width="70" height="70" />
 <img src="./images/prefect.svg" alt="tensorflow logo" width="70" height="70" />
 <img src="./images/terraform.svg" alt="tensorflow logo" width="70" height="70" />  
-<img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
+
 
 
 
 
 #### Cloud Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP logo" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="GCP logo" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP logo" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="GCP logo" width="40" height="40" /><img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
 
 
 

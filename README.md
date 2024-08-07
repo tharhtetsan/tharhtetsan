@@ -8,7 +8,7 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 ### Here is my  💻 Main Tech Stack
 
 #### Programming Languages
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="python logo" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python logo" width="40" height="40" />
+<img src="./images//python-original.svg" alt="python logo" width="40" height="40" /><img src="./images/java-original.svg" alt="python logo" width="40" height="40" /><img src="./images/cplusplus-original.svg" alt="python logo" width="40" height="40" />
 
 
 #### ML FrameWorks
@@ -19,26 +19,16 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 #### MLOps Stack
 
 
-<img src="./images/mlflow.svg" alt="mlflow logo" width="70" height="70" fill="white" />
-
-
-<img src="./images/airflow.svg" alt="tensorflow logo" width="70" height="70" />
-<img src="./images/prefect.svg" alt="tensorflow logo" width="70" height="70" />
-<img src="./images/terraform.svg" alt="tensorflow logo" width="70" height="70" />  
+[<img src="./images/mlflow.png" alt="mlflow logo" width="85" height="35" fill="white" />](https://mlflow.org/)
+[<img src="./images/airflow.png" alt="tensorflow logo" width="85" height="35" />](https://airflow.apache.org/)
+[<img src="./images/prefect.png" alt="tensorflow logo" width="85" height="35" />](https://www.prefect.io/)
+[<img src="./images/terraform.png" alt="tensorflow logo" width="85" height="35" /> ](https://www.terraform.io/) 
 
 
 
 #### Cloud Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP logo" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="GCP logo" width="40" height="40" /><img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
+<img src="./images/googlecloud-original.svg" alt="GCP logo" width="40" height="40" /><img src="./images/azure-original.svg" alt="GCP logo" width="40" height="40" /><img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
 
-
-
-
-
-<rect 
-  width="1000"
-  height="1000"
-  fill="white" />
 
 
 

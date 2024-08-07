@@ -17,7 +17,10 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 
 
 #### MLOps Stack
-<img src="./images/mlflow.svg" alt="tensorflow logo" width="70" height="70" /> <img src="./images/airflow.svg" alt="tensorflow logo" width="70" height="70" /> <img src="./images/prefect.svg" alt="tensorflow logo" width="70" height="70" /><img src="./images/terraform.svg" alt="tensorflow logo" width="70" height="70" />  
+<img src="./images/mlflow.svg" alt="tensorflow logo" width="70" height="70" /> 
+<img src="./images/airflow.svg" alt="tensorflow logo" width="70" height="70" />
+<img src="./images/prefect.svg" alt="tensorflow logo" width="70" height="70" />
+<img src="./images/terraform.svg" alt="tensorflow logo" width="70" height="70" />  
 <img src="./images/kubernetes.svg" alt="tensorflow logo" width="40" height="40" /> 
 
 

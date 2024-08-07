@@ -8,9 +8,7 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 ### Here is my  💻 Main Tech Stack
 
 #### Programming Languages
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="python logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="python logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python logo" width="50" height="50" />
 
 
 #### ML FrameWorks

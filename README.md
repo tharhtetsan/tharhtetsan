@@ -12,7 +12,7 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 
 
 #### ML FrameWorks
-<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" fill="white" /><img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.svg" alt="ONNX logo" width="40" height="40" />
+<img src="./images/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40" fill="white" /><img src="./images/pytorch-original.svg" alt="pytorch logo" width="40" height="40" /><img src="./images/onnx.png" alt="ONNX logo" width="40" height="40" />
 
 
 

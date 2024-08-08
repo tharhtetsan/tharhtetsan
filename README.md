@@ -1,8 +1,14 @@
 
 ## Hello there 👋, I am Thar Htet San
 
-I am an Artificial Intelligence Engineer with 5+ years of experience. I love creating end-to-end ML solution including Creating Own Algorithm, ML life cycle development, MLOps stacks and  Data Pipelines
-. Beyond my professional endeavors, I'm passionate about teaching at [DeepFaro](https://www.youtube.com/@deepfaro) and sharing knowledge about AI/ML System at [Myanmar Software Engineers](https://www.facebook.com/groups/myanmarsoftwareengineers). 
+"I love developing the capability of machines to process information, which will guide your future decisions."
+
+
+I am an Artificial Intelligence Engineer with 5+ years of experience. I spend most of my time in creating end-to-end ML solution including Creating Own Algorithm, ML life cycle development, MLOps stacks and  Data Pipelines
+. Beyond my professional endeavors, I'm passionate about teaching at [DeepFaro](https://www.youtube.com/@deepfaro) and sharing knowledge about AI/ML System at [Myanmar Software Engineers](https://www.facebook.com/groups/myanmarsoftwareengineers).
+
+
+
 
 
 
@@ -34,9 +40,10 @@ I am an Artificial Intelligence Engineer with 5+ years of experience. I love cre
 
 
 
-  - 🌱 I’m currently learning AI/RL .
-  - 👯 I’m looking to collaborate on Streaming AI Application.
-  - 🤔 I’m looking for help with Streaming AI Application.
+####  Here is my current work:
+  - 🌱 I’m currently learning about Federated learning (FedML) 🤖.
+  - 👯 I’m looking to collaborator for Streaming AI Application.
+  - 🤔 I’m passionate to discuss about  Reinforcement learning (RL) 🦾 and its capability for our future.
     
 
 I'm always open to interesting conversations and collaboration :

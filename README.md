@@ -2,7 +2,9 @@
 ## Hello there 👋, I am Thar Htet San
 
 I am an Artificial Intelligence Engineer with 5+ years of experience. I love creating end-to-end ML solution including Creating Own Algorithm, ML life cycle development, MLOps stacks and  Data Pipelines
-. Beyond my professional endeavors, I'm passionate about teaching and sharing knowledge AI/ML System at [DeepFaro](https://www.youtube.com/@deepfaro). 
+. Beyond my professional endeavors, I'm passionate about teaching at [DeepFaro](https://www.youtube.com/@deepfaro) and sharing knowledge about AI/ML System at [Myanmar Software Engineers](https://www.facebook.com/groups/myanmarsoftwareengineers). 
+
+
 
 
 ### Here is my  💻 Main Tech Stack

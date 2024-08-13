@@ -5,10 +5,12 @@
 
 
 I am an Artificial Intelligence Engineer with 5+ years of experience. I spend most of my time in creating end-to-end ML solution including Creating Own Algorithm, ML life cycle development, MLOps stacks and  Data Pipelines
-. Beyond my professional endeavors, I'm passionate about teaching at [DeepFaro](https://www.youtube.com/@deepfaro) and sharing knowledge about AI/ML System at [Myanmar Software Engineers](https://www.facebook.com/groups/myanmarsoftwareengineers).
+. Beyond my professional endeavors, I'm passionate about teaching at [DeepFaro](https://www.youtube.com/@deepfaro).
+
+I love sharing knowledge about AI/ML System at [Myanmar Software Engineers](https://www.facebook.com/groups/myanmarsoftwareengineers). So you have any question about AI/ML system please mentaion me.
 
 
-
+I'm currently teaching a course titled ["Machine Learning Systems for Production"](https://github.com/tharhtetsan/ML-in-Prod-batch-1)
 
 
 

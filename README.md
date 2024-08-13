@@ -69,3 +69,14 @@ I'm always open to interesting conversations and collaboration :
 
 
 
+##### Uni Life Coding Achievements
+- 2018 [Second winner up in China-Myanmar Innovation Competition](https://drive.google.com/file/d/1dQazVTd_g_FkZJY6rXY4OMUEF9uEoD-t/view?usp=sharing).
+- 2018 [First Winner up of Myanmar Collegiate Programming Contest in 2018](https://drive.google.com/file/d/1gnrJvLC64DSFGyneqEMOHuFdWuD-oObf/view?usp=sharing).
+- 2016 [Honorable Mention award in 2016 Asia-Yangon Programming Contest](https://drive.google.com/file/d/13R8nm0LGQCKGwDOxbI2BPdzw_mtN_p96/view?usp=sharing).
+
+##### Data Driven Career Achievements
+- 2020 [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/6CV4KC692GLQ).
+- 2020 [TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/BZZYLKVEYC5P).
+- 2020 [AI for Medicine](https://www.coursera.org/account/accomplishments/specialization/VGQW6WH5V2UB).
+- 2021 [Generative Adversarial Network (GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/2NTEBHZKFRSJ).
+- 2022 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/share/c02f847463a02fa2794bbe8af646f017)

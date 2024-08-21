@@ -80,3 +80,7 @@ I'm always open to interesting conversations and collaboration :
 - 2020 [AI for Medicine](https://www.coursera.org/account/accomplishments/specialization/VGQW6WH5V2UB).
 - 2021 [Generative Adversarial Network (GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/2NTEBHZKFRSJ).
 - 2022 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/share/c02f847463a02fa2794bbe8af646f017)
+
+
+##### Professional Certifications
+[<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="160" height="140" />](https://www.credly.com/earner/earned/share/dad0b5ca-ec7e-4611-b445-f3ab3641a40f)

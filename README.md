@@ -83,4 +83,4 @@ I'm always open to interesting conversations and collaboration :
 
 
 ##### Professional Certifications
-[<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="160" height="140" />](https://www.credly.com/earner/earned/share/dad0b5ca-ec7e-4611-b445-f3ab3641a40f)
+[<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="160" height="140" />](https://www.credly.com/badges/dad0b5ca-ec7e-4611-b445-f3ab3641a40f/public_url)

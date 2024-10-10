@@ -83,4 +83,5 @@ I'm always open to interesting conversations and collaboration :
 
 
 ##### Professional Certifications
-[<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="160" height="140" />](https://www.credly.com/badges/dad0b5ca-ec7e-4611-b445-f3ab3641a40f/public_url)
+[<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="120" height="110" />](https://www.credly.com/badges/dad0b5ca-ec7e-4611-b445-f3ab3641a40f/public_url)
+[<img src="./images/databricks_ml_associate.png" alt="Databricks ML Associate" width="120" height="140" />](https://credentials.databricks.com/d80d588c-301e-4100-8d45-3bd882634839)

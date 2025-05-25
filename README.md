@@ -82,10 +82,13 @@ I'm always open to interesting conversations and collaboration :
 - 2022 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/share/c02f847463a02fa2794bbe8af646f017)
 
 
-##### Professional Certifications
+<!-- Row 1: Airflow -->
 [<img src="./images/airflow_certi_1.png" alt="Astromer Airflow" width="130" height="120" />](https://www.credly.com/badges/dad0b5ca-ec7e-4611-b445-f3ab3641a40f/public_url)
 
+<!-- Row 2: AWS -->
+[<img src="./images/aws_de.png" alt="AWS DE" width="150" height="150" />](https://cp.certmetrics.com/amazon/en/public/verify/credential/f170d8e7d8f0470096e2bc4994a45180)
+
+
+<!-- Row 3: Databricks -->
 [<img src="./images/databricks_ml_associate.png" alt="Databricks ML Associate" width="140" height="160" />](https://credentials.databricks.com/d80d588c-301e-4100-8d45-3bd882634839)
-
 [<img src="./images/databricks_ml_professonal.png" alt="Databricks ML Professional" width="140" height="180" />](https://credentials.databricks.com/829d7bd8-fadd-4feb-9ded-8dff678e3da1)
-

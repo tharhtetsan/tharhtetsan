@@ -79,7 +79,7 @@ I'm always open to interesting conversations and collaboration :
 - 2020 [TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/BZZYLKVEYC5P).
 - 2020 [AI for Medicine](https://www.coursera.org/account/accomplishments/specialization/VGQW6WH5V2UB).
 - 2021 [Generative Adversarial Network (GANs) Specialization](https://www.coursera.org/account/accomplishments/specialization/2NTEBHZKFRSJ).
-- 2022 [Machine Learning Engineering for Production (MLOps)](https://coursera.org/share/c02f847463a02fa2794bbe8af646f017)
+- 2022 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/account/accomplishments/specialization/certificate/U4YS5YGQMY5S)
 
 
 <!-- Row 1: Airflow -->
